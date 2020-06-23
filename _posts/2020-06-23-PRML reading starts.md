@@ -1,5 +1,5 @@
 ---
-title: "Bishop's PRML reading"
+title: "Bishop's PRML reading during summer"
 last_modified_at:
 categories:
   - textbook
@@ -15,6 +15,6 @@ Study period: May 7 2020 ~ 14 chapters for 4 months
 - textbook, errata, parts of exercise solutions, [implementation in python]([https://github.com/topics/prml](https://github.com/topics/prml)) available online
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc3MTY4MDUsLTEwNDg1MzEzMCwyMD
-Q3MzE3ODI1LDY3ODUyMzUyLDQ1MzQ2ODMzXX0=
+eyJoaXN0b3J5IjpbNDcyNzIyOTI1LC0xMDQ4NTMxMzAsMjA0Nz
+MxNzgyNSw2Nzg1MjM1Miw0NTM0NjgzM119
 -->
