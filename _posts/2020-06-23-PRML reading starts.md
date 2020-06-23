@@ -6,8 +6,11 @@ categories:
 tags:
   - Bishop's PRML
 ---
-st
+
+levels for each chapter: [https://dominhhai.github.io/en-us/2017/12/ml-prml/](https://dominhhai.github.io/en-us/2017/12/ml-prml/)
+
+study period: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM0NzQ4NDIsMjA0NzMxNzgyNSw2Nz
-g1MjM1Miw0NTM0NjgzM119
+eyJoaXN0b3J5IjpbLTEwNDg1MzEzMCwyMDQ3MzE3ODI1LDY3OD
+UyMzUyLDQ1MzQ2ODMzXX0=
 -->
