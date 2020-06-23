@@ -1,14 +1,13 @@
 ---
-title: "PRML Ch6 Kernel methods"
+title: "Bishop's PRML reading"
 last_modified_at:
 categories:
-  - TIL
+  - textbook
 tags:
-  - dual representation
-  - kernel
+  - Bishop's PRML
 ---
-reading starts.
+st
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzMxNzgyNSw2Nzg1MjM1Miw0NTM0Nj
-gzM119
+eyJoaXN0b3J5IjpbLTExNzM0NzQ4NDIsMjA0NzMxNzgyNSw2Nz
+g1MjM1Miw0NTM0NjgzM119
 -->
