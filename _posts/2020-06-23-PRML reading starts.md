@@ -1,5 +1,5 @@
 ---
-title: "PRML Ch Kernel"
+title: "PRML Ch6 Kernel methods"
 last_modified_at:
 categories:
   - Bishop's PRML
@@ -9,5 +9,5 @@ tags:
 ---
 reading starts.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0Mzc2NDUwLDQ1MzQ2ODMzXX0=
+eyJoaXN0b3J5IjpbNjc4NTIzNTIsNDUzNDY4MzNdfQ==
 -->
