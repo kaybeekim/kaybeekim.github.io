@@ -48,7 +48,7 @@ Q. p301 how does figure 6.2 come out?
 Ch 2.5 nonparametric is insightful.
 
 
+# 200624 Wed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk5MDg3NDksLTE3NjA0Njc2MDFdfQ
-==
+eyJoaXN0b3J5IjpbNTIxMDk3MDMyLC0xNzYwNDY3NjAxXX0=
 -->
