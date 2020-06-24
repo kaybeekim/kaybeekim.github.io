@@ -38,18 +38,18 @@ Q. calculus of variation again (appendix D)
 
 [COV 변분법 설명 korean, 물리학에 많이 쓰이는듯](https://www.youtube.com/watch?v=OcRB6omfy9c)
 
-[korean, 곡선의 길이 공식](https://blog.naver.com/bmw9707121/221695439295 
+[korean, 곡선의 길이 공식](https://blog.naver.com/bmw9707121/221695439295)
+
 https://www.youtube.com/watch?v=6HeQc7CSkZs&list=PLdgVBOaXkb9CD8igcUr9Fmn5WXLpE8ZE_)
 
 Q. p301 how does figure 6.2 come out?
 
-SVM and RBF
-https://www.youtube.com/watch?v=Z2_yh2sice8
+[SVM and RBF](https://www.youtube.com/watch?v=Z2_yh2sice8)
 
 
 Ch 2.5 nonparametric is insightful.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzY3NzIxNywtMTc2MDQ2NzYwMV19
+eyJoaXN0b3J5IjpbMzQwMDg2NDEsLTE3NjA0Njc2MDFdfQ==
 -->
