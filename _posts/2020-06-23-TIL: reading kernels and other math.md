@@ -1,7 +1,5 @@
 # 200623 Tue
 
-## Morning-11:30
-
 - PRML ch6 reading
 - start github blog
 
@@ -51,5 +49,6 @@ Ch 2.5 nonparametric is insightful.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMDg2NDEsLTE3NjA0Njc2MDFdfQ==
+eyJoaXN0b3J5IjpbLTExNDk5MDg3NDksLTE3NjA0Njc2MDFdfQ
+==
 -->
