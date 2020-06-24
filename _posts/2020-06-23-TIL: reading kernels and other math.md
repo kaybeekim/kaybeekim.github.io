@@ -16,26 +16,18 @@ Q. p297, why Gaussian kernel's feature vector has infinite dimensionality.
 
 Q. p298 information geometry? differential geometry? manifold learning?
 
-https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg
+[Faculty of Khan differential geometry](https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg)
 
-3Blue1Brown differential equation 
-https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6
+[3Blue1Brown differential equation](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 
 Q. p298 Fisher information matrix causes this kernel invariant??? what does this mean
 
 Q. p299 So the 
-"whose Gram matrix in general is not positive semidefinite. This form of kernel
-has, however, been used in practice (Vapnik, 1995), possibly because it gives kernel
-expansions such as the support vector machine a superficial resemblance to neural
-network models. As we shall see, in the limit of an infinite number of basis functions,
-a Bayesian neural network with an appropriate prior reduces to a Gaussian process,
-thereby providing a deeper link between neural networks and kernel methods."
+"whose Gram matrix in general is not positive semidefinite. This form of kernel has, however, been used in practice (Vapnik, 1995), possibly because it gives kernel expansions such as the support vector machine a superficial resemblance to neural network models. As we shall see, in the limit of an infinite number of basis functions, a Bayesian neural network with an appropriate prior reduces to a Gaussian process, thereby providing a deeper link between neural networks and kernel methods."
 
 Q. Green's function?
 
-"If the differential operator is isotropic then the Green’s functions depend only
-on the radial distance from the corresponding data point. Due to the presence of the
-regularizer, the solution no longer interpolates the training data exactly."
+"If the differential operator is isotropic then the Green’s functions depend only on the radial distance from the corresponding data point. Due to the presence of the regularizer, the solution no longer interpolates the training data exactly."
 
 https://www.youtube.com/watch?v=xNqLZnM-PPY
 https://www.youtube.com/watch?v=Jws70qd-XRw
@@ -58,6 +50,6 @@ Ch 2.5 nonparametric is insightful.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM1ODg1ODMsLTE3NjA0Njc2MDFdfQ
+eyJoaXN0b3J5IjpbLTE0NTc5Mzc5ODksLTE3NjA0Njc2MDFdfQ
 ==
 -->
