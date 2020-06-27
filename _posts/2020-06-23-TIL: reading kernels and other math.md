@@ -88,6 +88,20 @@ http://www.gaussianprocess.org/
 4. PRML Gaussian Process
 5. R + Python 다시 설치, any desk, colab, keras 설치
 
+tomorrow
+5. 정윤식 Prior
+6. MHE 마저
+7. keras 실습
+
+
+keras
+- 케라스 창시자
+- 미술관에 GAN
+- colab
+
+pytorch
+- RL 책
+
 # 200627 Sat
 
 ### convex hull
@@ -98,6 +112,6 @@ https://www.semanticscholar.org/paper/Direct-to-Consumer-Advertising-on-Public-H
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzQyNDMyNSw1MjEwOTcwMzIsLTE3Nj
-A0Njc2MDFdfQ==
+eyJoaXN0b3J5IjpbNzE2MzczMjAzLDUyMTA5NzAzMiwtMTc2MD
+Q2NzYwMV19
 -->
