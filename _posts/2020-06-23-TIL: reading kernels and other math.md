@@ -62,7 +62,7 @@ Q. ch 3 vs GP difference?
 Q. p306 how to get figure 6.4? what is x-axis, y-axis, 
 Q. p306 why p(y) is gaussian by def
 
-
+### Gaussian Process
 
 [useful blog (Korean)](https://enginius.tistory.com/317)
 [최성준 강의](https://www.youtube.com/watch?v=Kgr-BQLVhuA)
@@ -80,12 +80,24 @@ http://krasserm.github.io/2018/03/21/bayesian-optimization/
 https://distill.pub/2020/bayesian-optimization/
 http://www.gaussianprocess.org/
 
+
+
 1. Tong guo SC paper
 2. Dan develop ***
 3. Doug variable develop
 4. PRML Gaussian Process
 5. R + Python 다시 설치, any desk, colab, keras 설치
+
+# 200627 Sat
+
+### convex hull
+### Abadie 2020 paper, Susan Athey
+
+https://pubsonline.informs.org/doi/10.1287/mksc.2019.1153
+https://www.semanticscholar.org/paper/Direct-to-Consumer-Advertising-on-Public-Health-Can-Kim-Kc/0dba10955385e971ef3ae7efaed1f8f6c28c3fc6
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjE4MjYwLDUyMTA5NzAzMiwtMTc2MD
-Q2NzYwMV19
+eyJoaXN0b3J5IjpbMTI3NzQyNDMyNSw1MjEwOTcwMzIsLTE3Nj
+A0Njc2MDFdfQ==
 -->
