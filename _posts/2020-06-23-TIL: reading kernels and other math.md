@@ -49,6 +49,43 @@ Ch 2.5 nonparametric is insightful.
 
 
 # 200624 Wed
+
+[생활코딩 AWS](https://opentutorials.org/course/2717)
+
+US-East (Virginia) is fastest. [link](https://www.cloudping.info/)
+
+instance = 컴퓨터 1대
+EC2(Elastic Compute Cloud)는 독립된 컴퓨터를 임대해주는 서비스
+
+
+Q. ch 3 vs GP difference?
+Q. p306 how to get figure 6.4? what is x-axis, y-axis, 
+Q. p306 why p(y) is gaussian by def
+
+
+
+[useful blog (Korean)](https://enginius.tistory.com/317)
+[최성준 강의](https://www.youtube.com/watch?v=Kgr-BQLVhuA)
+[머피의 머신러닝 GP](https://www.slideshare.net/JungkyuLee1/gaussian-processes)
+[Why are Gaussian process models called non-parametric?
+](https://stats.stackexchange.com/questions/46588/why-are-gaussian-process-models-called-non-parametric)
+https://jinwonsohn.github.io/nonparametric/bayesian/2019/01/01/Gaussian-process-regression.html
+
+https://distill.pub/2019/visual-exploration-gaussian-processes/
+http://www.it.uu.se/edu/course/homepage/apml/GP/
+https://towardsdatascience.com/an-intuitive-guide-to-gaussian-processes-ec2f0b45c71d
+https://towardsdatascience.com/quick-start-to-gaussian-process-regression-36d838810319
+https://ekalosak.github.io/blog/gaussian_process.html
+http://krasserm.github.io/2018/03/21/bayesian-optimization/
+https://distill.pub/2020/bayesian-optimization/
+http://www.gaussianprocess.org/
+
+1. Tong guo SC paper
+2. Dan develop ***
+3. Doug variable develop
+4. PRML Gaussian Process
+5. R + Python 다시 설치, any desk, colab, keras 설치
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMDk3MDMyLC0xNzYwNDY3NjAxXX0=
+eyJoaXN0b3J5IjpbMTQyNjE4MjYwLDUyMTA5NzAzMiwtMTc2MD
+Q2NzYwMV19
 -->
