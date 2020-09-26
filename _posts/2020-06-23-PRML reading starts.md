@@ -1,5 +1,5 @@
 ---
-title: "Bishop's PRML reading during summer"
+title: "reading Bishop's PRML during summer"
 last_modified_at:
 categories:
   - textbook
@@ -17,6 +17,6 @@ tags:
 - textbook, errata, parts of exercise solutions, [implementation in python]([https://github.com/topics/prml](https://github.com/topics/prml)) available online
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI4NTEyMzEsLTEwNDg1MzEzMCwyMD
-Q3MzE3ODI1LDY3ODUyMzUyLDQ1MzQ2ODMzXX0=
+eyJoaXN0b3J5IjpbNzkxNDMzOTUzLC0xMDQ4NTMxMzAsMjA0Nz
+MxNzgyNSw2Nzg1MjM1Miw0NTM0NjgzM119
 -->
